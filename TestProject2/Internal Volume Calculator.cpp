@@ -5,7 +5,7 @@
 
 int main()
 {
-	std::cout << "Please enter sphere diameter:  ";
+	std::cout << "- Please enter sphere diameter:  ";
 	float Diameter = 0;
 	// std::cin used for user to type their own diameter.
 	std::cin >> Diameter;
